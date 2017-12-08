@@ -1,0 +1,26 @@
+# CORE 数据结构
+
+Lisp的list 可以表达任意复杂度，有层次的数据结构。（这是我们学习递归 + 指针 数据的原因所在）
+（只是存在性能问题）不过，性能可以在后期考虑。
+
++ 定长数组
+数组
+array
+vector
+
++ 变长数组
+链表（递归结构）
+Lisp 的 list
+
++ table
+association table （递归结构的表）
+hash table （access operation性能类似于数组） 常量时间 取操作
+
+
+# 递归操作
++ 线性递归
+
++ 树形递归
+
+
+# 排序与搜索
