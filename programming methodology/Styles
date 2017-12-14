@@ -1,0 +1,10 @@
+# 好的风格很重要
+1. 你的程序不光要让机器懂，更重要的要让人能读懂。
+2. 通用程序设计(generic)
+3. top-down design
+   bottom-up design
+   自底向上设计思维 转变为 自顶向下设计思维（从最抽象的层面考虑）
+4. methods 1-15lines
+5. good name （语义的，描述性的）
+6. comments
+
